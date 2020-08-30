@@ -3,6 +3,10 @@
     padding-top: 10px;
 }
 
+ul {
+    list-style-type: none;
+}
+
 li {
     display: block;
     line-height: 30px;
